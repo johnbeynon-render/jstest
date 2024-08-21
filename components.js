@@ -1,1 +1,4 @@
-["logging","custom domains"]
+[
+  {"name":"Logging"},
+  {"name":"Custom Domains"}
+]
